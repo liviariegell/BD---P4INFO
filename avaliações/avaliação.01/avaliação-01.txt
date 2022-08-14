@@ -1,0 +1,4 @@
+1. Dados são os atributos de determinadas coisas, ou seja, ajuda a pessoa a compreender e observar as características de um elemento. Como por exemplo, um objeto de uma loja é necessário que tenha dados para que o cliente possa refletir sobre o produto.
+2. Informação é um agrupamento de dados de maneira organizada e associados um ao outro, de modo em que tenha uma função sobre uma coisa.
+3. Arquivos convencionais, ou apenas arquivos, são um conjunto de informações e/ou dados acerca de um determinado objeto/elemento.
+4. Banco de Dados é um conjunto de dados integrados, informações e arquivos que seu objetivo é suprir a necessidade de uma comunidade de usuários.
