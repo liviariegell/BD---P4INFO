@@ -1,0 +1,6 @@
+Defina o que é:
+1) Sistema Isolado
+Em um sistema isolado os dados são separados para cada cargo, de modo que cause o problema da redundância não controlada de dados que é quando uma determinada informação está representada no sistema mais de uma vez, que neste caso de redundância a repetição de informação está sobre controle do usário e não do software. 
+
+2) Sistema Integrado
+Já o sistema integrado é o oposto da redudância não controlada, ou seja, a solução. No caso de redudância controlada de dados ocorre quando o software tem a consciência e conhecimento da múltipla apresentação de informações e mantém a garantia da sincronização entre as diversas apresentações.
