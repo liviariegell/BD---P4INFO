@@ -1,0 +1,15 @@
+Descreva as fases de um Projeto de Banco de Dados:
+1) Modelagem Conceitual
+Um modelo conceitual é um detalhamento do banco de dados de forma indepedente de implementção em um SGBD(Sistema de Gerência de Banco de Dados).
+Nele, há registro que os dados podem aparecer no bd, entretanto não menciona como estes tais dados estão armazenados a nível de SGBD.
+Então, nesse primeiro passo é construído um modelo conceitual, como diagrama entidade-relacionamento;
+para captar as necessidades de ordenamento em termos de retenção de dados de forma independete de implementção.
+
+2) Projeto Lógico
+Projeto lógico é um modelo de dados que símboliza a estrutura de dados de um bd, conforme vista pelo usuário do SGBD. 
+Em seguida na segunda fase, tem como foco tranformar o modelo conceitual obtido posteriomente em um modelo lógico,
+que define como o bd será implmentado em um SGBD específico.
+
+3) Projeto Físico
+Já nesta etapa, o modelo do bd é preenchido com detalhes que induzem no desepenho do bd, porém não interfere em sua funionalidade. 
+Esse processo, contínuo, tem como nome popular "tuning"(sintonia) de bd. 
