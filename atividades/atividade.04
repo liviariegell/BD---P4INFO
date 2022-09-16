@@ -1,0 +1,30 @@
+Defina os seguintes conceitos centrais da abordagem ER:
+a) Entidade;
+Entidade é o conjunto de objetos da realidade modelada que deseja-se manter informações no banco de dados,
+ou seja, é a área na qual coisas do mundo real, abstrato ou concreto, são utilizadas para armazenar alguma(s) informações.  
+Exemplo: pessoa física ou jurídica, funcionários, cliente, produto etc.
+
+b) Relacionamento;
+Relacionamento é a apresentação das associações existentes no mundo real, ou seja, a partir das entidades se cria uma associação. 
+Pode haver um relacionamento entre 2 entidades ou auto-relacionamento que ocorre entre ocorrências de uma mesma entidade. 
+Exemplo: médico & paciente.
+
+c) Atributo;
+Atributo é a associação de informações a ocorrências de entidades ou relacionamentos; 
+pode se definir como propriedades de cada ocorrência ou relacionamento que deseja manter no banco de dados.
+Exemplo: CPF e número de matrícula.
+
+d) Domínio de um Atributo;
+Domínio pode se definir como o agrupamento de valores determinados e nomeados, no qual um ou mais atributos extraem seus valores.
+Ele é indicado separadamente das entidades a fim de permirtir seu reuso e/ou padronização.
+
+e) Generalização/especialização;
+Esses conceitos são utilizados para reproduzir objetos do mundo real que portam os mesmos atributos e que podem ser categorizados
+e representados em uma determinada hieraquia que mostra os encadeamentos entre entidades de uma mesma série.
+
+f) Entidade Associativa;
+Entidade Associativa são os resultados/efeitos de relacionamentos m:m, normalmente elas tem nomes mais explícitos, pois ocorrem no mundo real.
+Logo, é a redefinição de um relacionamento que muda, passando ser tratado como de fosse uma entidade.
+
+g) Cardinalidade de um Atributo.
+Cardinlidade de um atributo é um número que expressa maneiras de determinada entidade ligada a uma ocorrência da entidade de que se trata por meio do relacionamento.
